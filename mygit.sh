@@ -1,1 +1,1 @@
-hi
+#!/bin/bash
